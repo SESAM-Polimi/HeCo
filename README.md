@@ -6,7 +6,7 @@
 ## Overview
 HeCo is a bottom-up model for the generation of high-resolution (1h, NUTS2) heating and cooling profiles, based on a lumped-parameters thermodynamic model of a given country-wide building stock. The reference building stock is the Italian one, but the model is adaptable to any context.
 
-<img src="https://github.com/SESAM-Polimi/RAMP/blob/master/Example%20output.png" width="300">
+<img src="https://github.com/SESAM-Polimi/HeCo/blob/master/Regional_heat.jpg" width="500">
 
 The source-code is currently released as v.0.1-pre. This should be regarded as a pre-release: it is not yeat accompained by a detailed documentation, but the Python code is fully commented in each line to allow a complete understanding of it. Further details about the conceptual and mathematical model formulation are provided here: https://doi.org/10.18280/ti-ijes.632-434. 
 
