@@ -1,4 +1,5 @@
-<img src="https://github.com/SESAM-Polimi/HeCo/blob/master/heco_logo.png" width="300">
+<img src="https://github.com/SESAM-Polimi/HeCo/blob/master/heco_logo.png" width="200">
+
 *High-resolution heating and cooling profiles based on a lumped-parameters thermodynamic building stock model*
 
 ---
