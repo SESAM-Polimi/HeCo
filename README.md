@@ -24,14 +24,15 @@ The model is developed in Python 3.6, and requires the following libraries:
 [...]
 
 ## Authors
-The model has been developed by:
+The model has been conceptually developed by:
 
 **Francesco Lombardi, Matteo Vincenzo Rocco, Simone Locatelli, Chiara Magni, Emanuela Colombo** <br/>
 Politecnico di Milano, Italy <br/>
-E-mail: francesco.lombardi@polimi.it <br/>
 
 **Lorenzo Belussi, Ludovico Danza** <br/>
 Construction Technologies Institute - National Research Council of Italy (ITC-CNR), Italy <br/>
+
+Correspondence should be sent to: francesco.lombardi@polimi.it, which is responsible for the latest release of the code.
 
 ## Citing
 Please cite the following publication if you use HeCo in your research:
